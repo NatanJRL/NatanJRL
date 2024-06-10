@@ -5,7 +5,8 @@
 - 📚 Estou cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/">FIAP</a>
 - 🔭 Atualmente estou trabalhando em um projeto Full Stack chamado <a target="blank" href="https://accessforce.vercel.app/">Accessforce</a>.
 - 🌱 Estou aprendendo desenvolvimento web Backend e Frontend, com Spring e React.
-- 📫 Meu email: natanlopes.developer@gmail.com 
+- 📫 Meu email: natanlopes.developer@gmail.com
+- <img align="center" alt="Natan-java" height="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/> Meu linkedin: https://www.linkedin.com/in/natan-jrl
 
 ##
 
