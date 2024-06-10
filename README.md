@@ -9,7 +9,7 @@
 
 <div style="display: flex">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=natanjrl&hide=contribs&theme=tokyonight&show_icons=true">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanjrl&size_weight=0.5&count_weight=0.5&theme=tokyonight">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanjrl&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact">
 </div>
 
 
