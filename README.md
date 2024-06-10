@@ -7,11 +7,8 @@
 - 🌱 Estou aprendendo desenvolvimento web Backend e Frontend, com Spring e React.
 - 📫 Meu email: natanlopes.developer@gmail.com 
 
-##
 
-### O que utilizo no meu dia a dia
-
-## No Backend
+## Ferramentas Backend
 &nbsp;
 <div style="display: flex">
   <img align="center" alt="Natan-java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
@@ -25,7 +22,7 @@
 </div>
 &nbsp;
 
-## No Frontend
+## Ferramentas Frontend
 &nbsp;
 <div>
   <img align="center" alt="Natan-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
