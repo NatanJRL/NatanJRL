@@ -9,7 +9,7 @@
 - 📫 Meu email: natanlopes.developer@gmail.com 
 
 ##Backend
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
   <img align="center" alt="Natan-Ts" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Natan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Natan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -19,9 +19,8 @@
   <img align="center" alt="Natan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<div style="display: flex; margin-top:30em">
+<div style="display: flex">
   <img align="center" heigth="180em" src="https://github-readme-stats.vercel.app/api?username=natanjrl&hide=contribs&theme=tokyonight&show_icons=true">
-  <br>
   <img align="center" heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanjrl&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact">
 </div>
 
