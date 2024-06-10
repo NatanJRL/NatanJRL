@@ -9,7 +9,7 @@
 
 ##
 
-#Minhas Hard Skills são:
+# O que utilizo no meu dia a dia
 
 ## No Backend
 &nbsp;
