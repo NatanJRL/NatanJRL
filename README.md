@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá, seja bem-vindo(a)👋
 
-<!--
-**NatanJRL/NatanJRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Natan, tenho 19 anos e sou um desenvolvedor Backend Java. Atualmente
+curso Análise e Desenvolvimento de Sistemas na FIAP
+.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 Atualmente estou trabalhando em um projeto Full Stack chamado Accessforce.
+- 🌱 Estou aprendendo desenvolvimento web Backend e Frontend, com Spring e React.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 Meu email: natanlopes.developer@gmail.com 
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
+
+
