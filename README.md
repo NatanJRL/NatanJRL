@@ -1,5 +1,5 @@
-## Olá, seja bem-vindo(a)👋
-&nbsp;
+## Olá, seja bem-vindo(a)👋&nbsp;
+
   Meu nome é Natan, tenho 19 anos e sou um desenvolvedor de software apaixonado por aprender e refletir com colegas e amigos sobre os conhecimentos que adquiro. 
 &nbsp;
 
