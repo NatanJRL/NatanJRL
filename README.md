@@ -9,7 +9,9 @@
 
 ##
 
-## Backend
+#Minhas Hard Skills são:
+
+## No Backend
 &nbsp;
 <div style="display: flex">
   <img align="center" alt="Natan-java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
@@ -23,7 +25,7 @@
 </div>
 &nbsp;
 
-## Frontend
+## No Frontend
 &nbsp;
 <div>
   <img align="center" alt="Natan-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
