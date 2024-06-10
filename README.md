@@ -11,7 +11,7 @@ curso Análise e Desenvolvimento de Sistemas na FIAP
 - ⚡ Fun fact: ...
 -->
 
-![Natan's GitHub stats](https://github-readme-stats.vercel.app/api?username=natanjrl&hide=contribs&theme=radical,prs)
+![Natan's GitHub stats](https://github-readme-stats.vercel.app/api?username=natanjrl&hide=contribs&theme=radical)
 
 
 
