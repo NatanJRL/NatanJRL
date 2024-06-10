@@ -19,12 +19,11 @@
   <img align="center" alt="Natan-gradle" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg"/>    
   <img align="center" alt="Natan-mysql" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="Natan-sqldeveloper" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
-          
-          
 </div>
+&nbsp;
 
 ## Frontend
-
+&nbsp;
 <div>
   <img align="center" alt="Natan-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Natan-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -32,10 +31,10 @@
   <img align="center" alt="Natan-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Natan-vercel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg">
 </div>
-
+&nbsp;
 
 ## 
-
+&nbsp;
 <div style="display: flex">
   <img align="left" heigth="170em" src="https://github-readme-stats.vercel.app/api?username=natanjrl&hide=contribs&theme=tokyonight&show_icons=true">
   <img align="right" heigth="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanjrl&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact">
