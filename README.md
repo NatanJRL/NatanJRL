@@ -3,7 +3,7 @@
   Meu nome é Natan, tenho 19 anos e sou um desenvolvedor de software apaixonado por aprender e refletir com colegas e amigos sobre os conhecimentos que adquiro. 
 
 - 📚 Estou cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/">FIAP</a>
-- 🔭 Atualmente estou trabalhando em um projeto Full Stack chamado <a target="_blank" href="https://accessforce.vercel.app/">Accessforce</a>.
+- 🔭 Atualmente estou trabalhando em um projeto Full Stack chamado <a target="blank" href="https://accessforce.vercel.app/">Accessforce</a>.
 - 🌱 Estou aprendendo desenvolvimento web Backend e Frontend, com Spring e React.
 - 📫 Meu email: natanlopes.developer@gmail.com 
 
