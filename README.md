@@ -16,8 +16,10 @@
   <img align="center" alt="Natan-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Natan-fastapi" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
   <img align="center" alt="Natan-flask" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
-  <img align="center" alt="Natan-maven" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg"/>
-  <img align="center" alt="Natan-maven" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg"/>
+  <img align="center" alt="Natan-maven" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"/>  
+  <img align="center" alt="Natan-gradle" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg"/>   
+   
+          
 </div>
 
 ## Frontend
