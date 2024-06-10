@@ -10,7 +10,7 @@
 
 ## Backend
 
-<div style="display: flex"><br>
+<div style="display: flex">
   <img align="center" alt="Natan-Ts" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img align="center" alt="Natan-Ts" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>          
   <img align="center" alt="Natan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
