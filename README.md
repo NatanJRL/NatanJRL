@@ -33,7 +33,9 @@
   <img align="center" alt="Natan-vercel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg">
 </div>
 &nbsp;
+
 ## 
+
 &nbsp;
 <div style="display: flex">
   <img align="left" heigth="170em" src="https://github-readme-stats.vercel.app/api?username=natanjrl&hide=contribs&theme=tokyonight&show_icons=true">
