@@ -6,9 +6,7 @@
 - 🔭 Atualmente estou trabalhando em um projeto Full Stack chamado <a target="blank" href="https://accessforce.vercel.app/">Accessforce</a>.
 - 🌱 Estou aprendendo desenvolvimento web Backend e Frontend, com Spring e React.
 - 📫 Meu email: natanlopes.developer@gmail.com
-- <img align="center" alt="Natan-java" height="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/> Meu linkedin: https://www.linkedin.com/in/natan-jrl
-
-##
+- <img align="center" alt="linkedin" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/> Meu linkedin: https://www.linkedin.com/in/natan-jrl
 
 ## Ferramentas Backend
 &nbsp;
@@ -35,7 +33,6 @@
   <img align="center" alt="Natan-vercel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg">
 </div>
 &nbsp;
-
 ## 
 &nbsp;
 <div style="display: flex">
