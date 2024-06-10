@@ -11,6 +11,7 @@
 
 <div style="display: flex">
   <img align="center" heigth="180em" src="https://github-readme-stats.vercel.app/api?username=natanjrl&hide=contribs&theme=tokyonight&show_icons=true">
+  <br>
   <img align="center" heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanjrl&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact">
 </div>
 
